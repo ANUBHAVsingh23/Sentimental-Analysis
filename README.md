@@ -50,7 +50,7 @@ The dataset used in this task primarily relates to social media data, which has 
 
 ---
 ###Notebook
-[Link to your Task 2 Notebook (task2.ipynb)](social media sentimental analysis.ipynb)
+[Link to your Task 2 Notebook (social media sentimental analysis .ipynb)]
 ### ✅ Conclusion
 This task provided hands-on experience with **Sentiment Analysis**, a fundamental area of data analytics, which is widely used in industries for product reviews, social media monitoring, customer feedback analysis, etc.
 
